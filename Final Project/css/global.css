@@ -1,7 +1,6 @@
 #container{
 	width: 1000px;
 	margin: auto;
-	background-color: #a2c92c;
 }
 
 .clear{
@@ -27,6 +26,7 @@
 }
 #header ul li.lastNavItem{
 	border-right: none;
+	border: none;
 }
 
 #header ul{

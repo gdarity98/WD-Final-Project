@@ -31,9 +31,11 @@
 
 #header ul li{
 	padding: 10px;
+	text-transform: uppercase;
 	border-right: 1px solid #b0b0b0; 
 	float: left;
 }
 
 #footer{
+	background-color: #4dc6b0;
 }

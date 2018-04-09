@@ -24,6 +24,9 @@
 #header a.activePage{
 	color: #AAAAAA;
 }
+#header ul li.lastNavItem{
+	border-right: none;
+}
 
 #header ul{
 	float: right;

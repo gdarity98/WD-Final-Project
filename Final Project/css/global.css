@@ -29,6 +29,7 @@
 }
 
 #header ul li{
+	float: left;
 }
 
 #footer{

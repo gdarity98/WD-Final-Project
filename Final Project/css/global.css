@@ -6,20 +6,20 @@
 	width: 10%;
 }
 #header a{
-	color: black;
+	color: #FFFFFF;
 	text-decoration: none;
 }
-#header a .active{
-	color: blue;
+#header a.active{
+	color: #AAAAAA;
 }
 
 #header ul{
 	list-style-type: none;
-	float: left;
+	
 }
 
 #header ul li{
-	
+	float: left;
 }
 
 #footer{

@@ -11,6 +11,7 @@
 	background-color: #f44253;
 }
 #header img{
+	float: left;
 	width: 15%;
 }
 
@@ -24,7 +25,7 @@
 }
 
 #header ul{
-	text-align: right;
+	float: right;
 	list-style-type: none;
 }
 

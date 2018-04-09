@@ -1,19 +1,19 @@
 #container{
 	width: 1000px;
-	margin: auto;
+	margin: 0;
 }
 .clear{
 	clear: both;
 }
 
 #header{
-	background: red;
+	background-color: #f44253;
 }
 #header img{
-	width: 10%;
+	width: 15%;
 }
 #header a{
-	color: black;
+	color: #000000;
 	text-decoration: none;
 }
 #header a.activePage{

@@ -1,3 +1,17 @@
-h1{
+#container{
+	width: 1000px;
+}
+#header img{
 	
+}
+
+#header ul{
+	 list-style-type: none;	
+}
+
+#header ul li{
+	
+}
+
+#footer{
 }

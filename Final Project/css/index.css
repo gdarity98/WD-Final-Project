@@ -1,3 +1,66 @@
 img.mainHeroImage{
 	width: 100%;
 }
+
+h1{
+    text-align: center;
+    color:#663300;
+}
+
+p{
+    margin:0;
+    text-align: left;
+}
+.oneThirdColumn{
+    width: 32.333333333%;
+    float: left; 
+}
+
+.oneThirdColumn ul li{
+    list-style-type: none;
+    margin: 0x;
+    padding: 0px;
+}
+
+.oneThirdColumn ul{
+    margin: 0x;
+    padding: 0px;
+}
+
+.lastColumn ul{
+    margin: 0x;
+    padding: 0px;
+    text-align: left;
+    list-style-type: none;
+}
+
+.fullpadding{
+    padding: 0px 15px;
+    border-right: 1px solid #000000;
+       
+}
+
+.lastColumn{
+    border: none;
+    padding: 0px 15px;
+}
+.oneHalfColumn{
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+.oneHalfColumn ul {
+  padding: 0px
+    
+}
+
+.oneHalfColumn ul li{
+    text-align: left;
+    list-style-type: none
+    
+}
+
+.oneHalfColumn p.questions{
+    text-align: center;
+    font-weight: 600;
+}

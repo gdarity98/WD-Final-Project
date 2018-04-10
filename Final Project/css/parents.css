@@ -1,3 +1,39 @@
 h1{
-	
+    text-align: center;
+    margin: 5px;
+    color:#663300;
+    text-decoration: underline
+}
+
+h2{
+    margin: 0px;
+    color:#CD6600;
+    
+}
+.oneThirdColumn{
+    width: 33.333333333%;
+    float: left;
+    margin-top: 15px
+}
+
+.twoThirdColumn{
+    width: 66.666666666666%;
+    float: left;
+    margin-top: 15px
+}
+
+.fullpadding{
+    padding: 0px 15px;
+       
+}
+
+.oneThirdColumnImage{
+    width: 100%;
+    padding: 0px;
+    
+}
+
+
+.paddingBottom{
+    padding: 0px 10px 10px 10px;
 }

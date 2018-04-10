@@ -1,6 +1,7 @@
 #container{
 	width: 1000px;
 	margin: auto;
+    border: 1px solid #000000;
 }
 
 .clear{
@@ -17,12 +18,12 @@
 }
 
 #header a{
-	color: #000000;
+	color: #663300;
 	text-decoration: none;
 }
 
 #header a.activePage{
-	color: #996633;
+	color: #006600;
 }
 #header ul li.lastNavItem{
 	border-right: none;
@@ -37,10 +38,11 @@
 #header ul li{
 	padding: 10px;
 	text-transform: uppercase;
-	border-right: 1px solid #f9b411; 
+	border-right: 1px solid #ff9900; 
 	float: left;
 }
 
 #footer{
-	background-color: #4dc6b0;
+	background-color: #fff2e6;
+    height: 50px
 }

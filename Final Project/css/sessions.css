@@ -62,6 +62,7 @@ p{
     padding:0px;
     margin:0px;
     text-align: center;
+    color: #CD6600;
 }
 .lastColumn ul li.ender{
     list-style-type: none;
@@ -69,5 +70,5 @@ p{
     margin:0px;
     text-align: center;
     font-weight: 600;
-    color: ##663300;
+    color: #006600;
 }

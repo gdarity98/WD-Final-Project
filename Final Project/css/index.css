@@ -5,6 +5,7 @@ img.mainHeroImage{
 h1{
     text-align: center;
     color:#663300;
+    margin:5px
 }
 
 p{
@@ -57,11 +58,30 @@ p{
 
 .oneHalfColumn ul li{
     text-align: left;
-    list-style-type: none
+    list-style-type: disc;
+    margin: 0px 0px 0px 10px
     
 }
 
-.oneHalfColumn p.questions{
-    text-align: center;
-    font-weight: 600;
+.oneHalfColumn .questions{
+    text-align: left;
+    list-style-type: none;
+    margin-bottom: 5px;
+    color:#CD6600;
+   
+}
+
+.oneHalfColumn .answers{
+    text-align: left;
+    margin-bottom: 10px;
+   
+}
+
+.oneHalfColumn a{
+    color:#CD6600
+   
+}
+
+.importantText{
+    color:#006600;
 }

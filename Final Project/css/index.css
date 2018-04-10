@@ -78,10 +78,15 @@ p{
 }
 
 .oneHalfColumn a{
-    color:#CD6600
+    color:#CD6600;
+    text-decoration: none;
    
 }
 
 .importantText{
     color:#006600;
+}
+.importantLink{
+    color:#CD6600;
+    text-decoration: none;
 }

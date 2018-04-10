@@ -1,3 +1,73 @@
 h1{
-	
+    text-align: center;
+    color:#663300;
+}
+
+p{
+    margin:0;
+    text-align: left;
+}
+
+.oneThirdColumnImageHolder{
+    width: 33.333333333%;
+    float: left;
+}
+
+.oneThirdColumnImage{
+    width: 100%;
+    padding: 10px 0px 0px;
+    
+}
+
+.oneThirdColumn{
+    width: 33.333333333%;
+    float: left;
+}
+
+.oneThirdColumn ul li{
+    list-style-type: disc;
+    margin: 0x;
+    padding: 0px;
+}
+
+.oneThirdColumn ul{
+    
+    padding: ;
+}
+
+
+.fullpadding{
+    padding: 0px 15px;
+    border-right: 1px solid #000000;
+       
+}
+
+.fullpaddingnoborder{
+    padding: 0px 15px;
+}
+
+.lastColumn{
+    border: none;
+    padding: 0px 15px;
+}
+
+.lastColumn ul{
+    padding: 0px 0px 0px 10px;
+    text-align: left;
+    list-style-type: disc;
+}
+
+.lastColumn ul li.header{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    text-align: center;
+}
+.lastColumn ul li.ender{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    text-align: center;
+    font-weight: 600;
+    color: ##663300;
 }

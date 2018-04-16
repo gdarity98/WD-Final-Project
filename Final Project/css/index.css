@@ -5,7 +5,7 @@ img.mainHeroImage{
 h1{
     text-align: center;
     color:#663300;
-    margin:5px
+    margin:20px
 }
 
 p{
@@ -30,14 +30,14 @@ p{
 
 
 .fullpadding{
-    padding: 0px 15px;
+    padding: 0px 25px;
     border-right: 1px solid #000000;
        
 }
 
 .lastColumn{
     border: none;
-    padding: 0px 15px;
+    padding: 0px 25px;
 }
 
 .lastColumn ul{
@@ -59,7 +59,7 @@ p{
 .oneHalfColumn ul li{
     text-align: left;
     list-style-type: disc;
-    margin: 0px 0px 0px 10px
+    margin: 0px 0px 0px 15px
     
 }
 

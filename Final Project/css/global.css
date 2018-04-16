@@ -7,9 +7,19 @@
 .clear{
 	clear: both;
 }
+p, ul ,li{
+    font-family: "Helvetica", Times, serif;
+}
 
+h1, h2, h3{
+    font-family: "Helvetica", Times, serif;
+}
 #header{
 	background-color: #fff2e6;
+}
+
+.navFont{
+    font-family: "Courier New", Times, serif;
 }
 #header img{
 	float: left;
@@ -45,4 +55,10 @@
 #footer{
 	background-color: #fff2e6;
     height: 50px
+}
+
+.lastNavItem.navFont{
+    font-family: "Courier New", Times, serif;
+    border-right: none;
+	border: none;    
 }

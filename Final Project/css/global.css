@@ -12,14 +12,14 @@ p, ul ,li{
 }
 
 h1, h2, h3{
-    font-family: "Helvetica", Times, serif;
+    font-family: "Jua", Times, serif;
 }
 #header{
 	background-color: #fff2e6;
 }
 
 .navFont{
-    font-family: "Courier New", Times, serif;
+    font-family: "Jua", Times, serif;
 }
 #header img{
 	float: left;
@@ -35,6 +35,11 @@ h1, h2, h3{
 #header a.activePage{
 	color: #006600;
 }
+
+#header a:hover{
+	color: #006600;
+}
+
 #header ul li.lastNavItem{
 	border-right: none;
 	border: none;
